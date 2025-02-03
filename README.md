@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=Hi,traveller!&fontSize=60&fontAlign=50&fontAlignY=36&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,19,19,27,28&height=200&&section=header&text=Hi%20!%20I'm%20Breezli.&fontAlign=50&fontSize=70&fontAlignY=50&desc=松间听风，忽见灵狸&descAlign=50&descSize=20&descAlignY=74&&fontColor=177980&animation=scaleIn" />
 </p>
 
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=177980&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/chenJH123456">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenJH123456&show_icons=true&theme=moltack" />
+  <a href="https://github.com/Breezli">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Breezli&show_icons=true&theme=catppuccin_latte" />
   </a>
-  <a href="https://github.com/chenJH123456">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenJH123456&layout=compact&langs_count=8&card_width=344&theme=moltack" />
+  <a href="https://github.com/Breezli">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Breezli&layout=compact&langs_count=8&card_width=344&theme=catppuccin_latte" />
   </a>
 </p>
 
-<p align="center">
+<div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -29,7 +29,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
 	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
-</p>
+</div>
 
 <p align="center"> 
       <!-- &emsp;&emsp; -->
@@ -45,22 +45,18 @@
       <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp; -->
 </p>
 <!-- <div id="img" align=center> -->
-<!-- <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a> -->
+<!-- <a href="https://https://github.com/Breezli" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/Breezli" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/Breezli" target="_blank"><a href="https://https://github.com/Breezli" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a> -->
 <!-- </div> -->
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chenJH123456&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Breezli&theme=catppuccin_latte&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenJH123456/chenJH123456/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenJH123456/chenJH123456/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenJH123456/chenJH123456/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=hungry↑to↑death&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/d2e8eea1f9da87c492f50ab64988627912cfe95f479c904733b78ba2ba17b882/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d76656e6f6d266865696768743d32303026746578743d49253230616d25323056656e6f6d2e26666f6e7453697a653d373026636f6c6f723d303a3838373165352c3130303a623637386334267374726f6b653d623637386334" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,19,19,27,28&height=200&&section=header&text=努力攒豆豆喂蛇ing...&fontAlign=50&fontSize=40&fontAlignY=50&&fontColor=177980&animation=scaleIn" />
 </p>
