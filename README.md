@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=170&&section=header&text=Hi%20!%20I'm%20Breezli.&fontAlign=50&fontSize=60&fontFamily=宋体&fontAlignY=50&desc=松间听风，忽见灵狸&descAlign=50&descSize=14&descAlignY=70&&fontColor=177980&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=190&&section=header&text=Hi%20!%20I'm%20Breezli.&fontAlign=50&fontSize=60&fontFamily=宋体&fontAlignY=50&desc=松间听风，忽见灵狸&descAlign=50&descSize=14&descAlignY=70&&fontColor=177980&animation=scaleIn" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 <!-- <a href="https://https://github.com/Breezli" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/Breezli" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/Breezli" target="_blank"><a href="https://https://github.com/Breezli" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a> -->
 <!-- </div> -->
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Breezli&theme=catppuccin_latte&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Breezli&theme=catppuccin-latte&hide_border=false%C2%A0%C2%A0%E5%81%87&border_radius=5&locale=zh_Hans&short_numbers=false%C2%A0%C2%A0%E5%81%87&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" />
 </p>
 
 <picture>
@@ -58,5 +58,5 @@
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=170&&section=header&text=努力攒豆豆喂蛇ing...&fontAlign=50&fontSize=26&fontAlignY=50&&fontColor=177980&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=190&&section=header&text=努力攒豆豆喂蛇ing...&fontAlign=50&fontSize=26&fontAlignY=50&&fontColor=177980&animation=scaleIn" />
 </p>
