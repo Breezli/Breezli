@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,19,19,27,28&height=200&&section=header&text=Hi%20!%20I'm%20Breezli.&fontAlign=50&fontSize=70&fontAlignY=50&desc=松间听风，忽见灵狸&descAlign=50&descSize=20&descAlignY=74&&fontColor=177980&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=170&&section=header&text=Hi%20!%20I'm%20Breezli.&fontAlign=50&fontSize=60&fontFamily=宋体&fontAlignY=50&desc=松间听风，忽见灵狸&descAlign=50&descSize=14&descAlignY=70&&fontColor=177980&animation=scaleIn" />
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,19,19,27,28&height=200&&section=header&text=努力攒豆豆喂蛇ing...&fontAlign=50&fontSize=40&fontAlignY=50&&fontColor=177980&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=170&&section=header&text=努力攒豆豆喂蛇ing...&fontAlign=50&fontSize=26&fontAlignY=50&&fontColor=177980&animation=scaleIn" />
 </p>
