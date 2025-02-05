@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="color: #177980;font-size: 14px;font-family:fantasy;">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=190&&section=header&text=Hi%20!%20I'm%20Breezli.&fontAlign=50&fontSize=60&fontFamily=宋体&fontAlignY=50&desc=松间听风，忽见灵狸&descAlign=50&descSize=14&descAlignY=70&&fontColor=177980&animation=scaleIn" />
 </p>
 
@@ -13,6 +13,10 @@
   <a href="https://github.com/Breezli">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Breezli&layout=compact&langs_count=8&card_width=344&theme=catppuccin_latte" />
   </a>
+</p>
+
+<p align="center">
+    <a href="https://breezli.cn/"style="color:rgb(255, 255, 255);font-size: 12px;font-family:fantasy;background-color: #177980;border-radius: 10px;padding: 4px;border: #072f32 solid 1px;">我的博客_Breezli.cn</a>
 </p>
 
 <div align="center">
