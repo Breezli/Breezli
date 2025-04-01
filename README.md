@@ -25,7 +25,7 @@
     <a href="https://breezli.cn/"style="color:rgb(255, 255, 255);font-size: 12px;font-family:fantasy;background-color: #177980;border-radius: 10px;padding: 4px;border: #072f32 solid 1px;">我的博客_Breezli.cn</a>
 </p> -->
 
-<div align="center">
+<p align="center" height=200>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
@@ -37,11 +37,11 @@
   <code><img width="50" src="https://cn.vitest.dev/favicon.ico" alt="Vitest" title="Vitest"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
   <!-- <code><img width="50" src="" alt="" title=""/></code> -->
-	<!-- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-  <code><img width="50" src="https://devtool.tech/_next/static/svg/df772b30f058e3b9.svg" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
-</div>
+	<!-- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code> -->
+  <!-- <code><img width="50" src="https://devtool.tech/_next/static/svg/df772b30f058e3b9.svg" alt="PostCss" title="PostCss"/></code> -->
+	<!-- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code> -->
+	<!-- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code> -->
+</p>
 
 <!-- <p align="center"> 
       &emsp;&emsp;
