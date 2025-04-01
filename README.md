@@ -6,12 +6,6 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=177980&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
-</picture>
-
 <p align="center">
   <a href="https://github.com/Breezli">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Breezli&show_icons=true&theme=catppuccin_latte" />
@@ -57,3 +51,9 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,3,3,19,28&height=190&&section=header&text=努力攒豆豆喂蛇ing...&fontAlign=50&fontSize=26&fontAlignY=50&&fontColor=177980&animation=scaleIn" />
 </p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Breezli/Breezli/output/github-contribution-grid-snake.svg">
+</picture>
