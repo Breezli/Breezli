@@ -44,9 +44,9 @@
 </p>
 
 <!-- 贡献统计 -->
-<p align="center">
+<!--<p align="center">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Breezli&hide_border=false%C2%A0%C2%A0%E5%81%87&border_radius=5&locale=zh_Hans&short_numbers=false%C2%A0%C2%A0%E5%81%87&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&theme=ayu-light" />
-</p>
+</p>-->
 
 <!-- 贪吃蛇 -->
 <picture>
