@@ -17,7 +17,7 @@
 
 <!-- 打字机 -->
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=ff9943&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=ff9943&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+page+." />
 </p>
 
 <!-- 个人信息 -->
